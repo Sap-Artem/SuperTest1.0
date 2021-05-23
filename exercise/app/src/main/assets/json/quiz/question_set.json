@@ -1,0 +1,3017 @@
+
+{
+  "questionnaires": [
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "1"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "1"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "1"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "1"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "1"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "2"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "2"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "2"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "2"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "2"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "3"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "3"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "3"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "3"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "3"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "4"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "4"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "4"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "4"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "4"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "5"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "5"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "5"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "5"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "5"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "6"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "6"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "6"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "6"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "6"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "7"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "7"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "7"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "7"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "7"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "8"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "8"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "8"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "8"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "8"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "9"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "9"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "9"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "9"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "9"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "10"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "10"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "10"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "10"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "10"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "11"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "11"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "11"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "11"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "11"
+    },
+    {
+      "question": "Овца:",
+      "answers": [
+        "sheep",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "Кот:",
+      "answers": [
+        "bee",
+        "cat",
+        "dog",
+        "camel"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "Собака",
+      "answers": [
+        "worm",
+        "bee",
+        "cat",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "Верблюд:",
+      "answers": [
+        "dog",
+        "camel",
+        "bee",
+        "cat"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "крокодил",
+      "answers": [
+        "polar bear",
+        "cow",
+        "crocodile",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "question_category": "12"
+    },{
+      "question": "полярный медведь:",
+      "answers": [
+        "cow",
+        "crocodile",
+        "pig",
+        "polar bear"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "корова:",
+      "answers": [
+        "crocodile",
+        "pig",
+        "polar bear",
+        "cow"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "лошадь:",
+      "answers": [
+        "horse",
+        "pig",
+        "elephant",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "свинья:",
+      "answers": [
+        "elephant",
+        "bear",
+        "horse",
+        "pig"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "слон:",
+      "answers": [
+        "pig",
+        "elephant",
+        "bear",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "медведь:",
+      "answers": [
+        "bear",
+        "horse",
+        "pig",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "жираф:",
+      "answers": [
+        "giraffe",
+        "goose",
+        "cock",
+        "hen"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "гусь:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "петух:",
+      "answers": [
+        "goose",
+        "cock",
+        "hen",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "курица",
+      "answers": [
+        "cock",
+        "hen",
+        "giraffe",
+        "goose"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "Волк:",
+      "answers": [
+        "Fox",
+        "Wolf",
+        "Mouse",
+        "elk"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "Лиса:",
+      "answers": [
+        "Mouse",
+        "elk",
+        "Fox",
+        "Wolf"
+      ],
+      "correct_answer": 2,
+      "question_category": "12"
+    },{
+      "question": "Мышь:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "Олень:",
+      "answers": [
+        "elk",
+        "Fox",
+        "Wolf",
+        "Mouse"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "Лягушка:",
+      "answers": [
+        "kangaroo",
+        "frog",
+        "ant",
+        "dragonfly"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "Кенгуру:",
+      "answers": [
+        "frog",
+        "ant",
+        "dragonfly",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "question_category": "12"
+    },{
+      "question": "Муравей:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 0,
+      "question_category": "12"
+    },{
+      "question": "Стрекоза:",
+      "answers": [
+        "ant",
+        "dragonfly",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "Змея:",
+      "answers": [
+        "ant",
+        "snake",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    },{
+      "question": "Обезьяна:",
+      "answers": [
+        "ant",
+        "monkey",
+        "kangaroo",
+        "frog"
+      ],
+      "correct_answer": 1,
+      "question_category": "12"
+    }
+  ]
+}
